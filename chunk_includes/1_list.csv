@@ -1,0 +1,73 @@
+nr,stimulus,dimension,sit_context,full_sentence,item_kind,specification,specificator,disloc_nounrole,disloc_nouncase,Specification,noun,comma,demonstrative pronoun,verb,preposition (optional),adjectivum,noun,punctuation,topic_nounrole,case of topicalized noun,Adjectivum,noun,verb,connector,subject (optional),verb,preposition,adjektive,noun,punctuation
+1,Left dislocation,static,Pan Dvořák píše žákům školní pravidla.,Píše: Vzdělání získáš proaktivním přístupem.,Control,no,,objekt,4,,Vzdělání,",",to,získáš,,proaktivním,přístupem,.,,,,,,,,,,,,
+2,Left dislocation,static,Pavel píše zprávu o pracovním úrazu.,Píše: Lešení mělo nestabilní základ.,Control,no,,subjekt,1,,Lešení,",",to,mělo,,nestabilní,základ.,.,,,,,,,,,,,,
+3,Left dislocation,static,Jan diktuje recept na malinový koláč.,"Říká: Maliny, ty přidejte na hotový dort.",Critical,no,,objekt,4,,Maliny,",",ty,přidejte,na,hotový,dort,.,,,,,,,,,,,,
+4,Left dislocation,static,Pan Svoboda píše článek do přírodovědné encyklopedie.,"Píše: Granátové jablko, to roste v subtropických oblastech.",Critical,yes,adjectivum,subjekt,1,Granátové,jablko,",",to,roste,v,subtropických,oblastech,.,,,,,,,,,,,,
+5,Left dislocation,static,Paní Nováková píše úvod vědeckého článku.,"Píše: Rozsáhlý výzkum, ten proběhl v devadesátých letech.",Critical,yes,adjectivum,subjekt,1,Rozsáhlý,výzkum,",",ten,proběhl,v,devadesátých,letech,.,,,,,,,,,,,,
+6,Left dislocation,static,Eva píše článek do Hospodářských novin.,Píše: Vysokoškolské studium ukončil s výbornými známkami.,Control,yes,adjectivum,objekt,4,Vysokoškolské,studium,",",to,ukončil,s,výbornými,známkami,.,,,,,,,,,,,,
+7,Left dislocation,spontaneous,Eva si povídá s přítelkyní na maturitním plese.,"Říká: Moje ségra, ta tancuje se svým klukem.",Critical,yes,possessivum,subjekt,1,Moje,ségra,",",ta,tancuje,se,svým,klukem,.,,,,,,,,,,,,
+8,Left dislocation,spontaneous,Paní Novotná mluví s bratrancem při slavnostním obědě.,Říká: Kostelecká babička nepřijela od loňských vánoc.,Control,yes,adjectivum,subjekt,1,Kostelecká,babička,",",ta,nepřijela,od,loňských,vánoc,.,,,,,,,,,,,,
+9,Left dislocation,spontaneous,Jan mluví se sestřenicí na rodinné oslavě.,Říká: Soused si koupil novou motorku.,Control,no,,subjekt,1,,Soused,",",ten,si koupil,,novou,motorku,.,,,,,,,,,,,,
+10,Left dislocation,spontaneous,Michal píše komentář pod facebookovým příspěvkem.,Píše: Nadávky hodnotím jako nechutný útok.,Control,no,,objekt,4,,Nadávky,",",ty,hodnotím,jako,nechutný,útok,.,,,,,,,,,,,,
+11,Left dislocation,spontaneous,Petr píše esemesku své přítelkyni.,"Píše: Třídního učitele, toho nesnáší celá třída.",Critical,yes,adjectivum,objekt,4,Třídního,učitele,",",toho,nesnáší,,celá,třída,.,,,,,,,,,,,,
+12,Left dislocation,spontaneous,Jan píše zprávu pro svou spolužačku.,"Píše: Kružítko, to potřebuju na odpolední semináře.",Critical,no,,objekt,4,,Kružítko,",",to,potřebuju,na,odpolední,semináře,.,,,,,,,,,,,,
+13,Left dislocation,dynamic,Pan Novák vypráví dětem napínavý příběh.,Říká: Temnou jeskyni procházel s velkou opatrností.,Control,yes,adjectivum,objekt,4,Temnou,jeskyni,",",tu,procházel,s,velkou,opatrností,.,,,,,,,,,,,,
+14,Left dislocation,dynamic,Pan Svoboda si povídá s přítelkyní v útulné kavárně.,Říká: Dovolenou si musíš domluvit do příštího pátku.,Control,no,,objekt,4,,Dovolenou,",",tu,si musíš domluvit,do,příštího,pátku,.,,,,,,,,,,,,
+15,Left dislocation,dynamic,Tereza vypráví kamarádce veselou příhodu.,Říká: Ondrův brácha přišel s cizí holkou.,Control,yes,possessivum,subjekt,1,Ondrův,brácha,",",ten,přišel,s,cizí,holkou,.,,,,,,,,,,,,
+16,Left dislocation,dynamic,Pan Svoboda si povídá s kamarádkou v tanečním klubu.,"Říká: Zimní ples, ten bude v kulturním domě.",Critical,yes,adjectivum,subjekt,1,Zimní,ples,",",ten,bude,v,kulturním,domě,.,,,,,,,,,,,,
+17,Left dislocation,dynamic,Petra mluví s rodiči na své promoci.,"Říká: Diplom, ten dostanu po slavnostní ceremonii.",Critical,no,,objekt,4,,Diplom,",",ten,dostanu,po,slavnostní,ceremonii,.,,,,,,,,,,,,
+18,Left dislocation,dynamic,Tereza mluví se spolubydlící v obývacím pokoji.,"Říká: Nájem, ten se zvyšuje od prvního ledna.",Critical,no,,subjekt,1,,Nájem,",",ten,se zvyšuje,od,prvního,ledna,.,,,,,,,,,,,,
+19,Left dislocation,prepared,Pan Novotný prezentuje šéfové měsíční progres.,Říká: Přesné výdaje pošle administrativní oddělení.,Control,yes,adjectivum,objekt,4,Přesné,výdaje,",",ty,pošle,,administrativní,oddělení,.,,,,,,,,,,,,
+20,Left dislocation,prepared,Tereza přednáší studentům na zemědělské univerzitě.,Říká: Lesoparky tvoří samostatný ekosystém.,Control,no,,subjekt,1,,Lesoparky,",",ty,tvoří,,samostatný,ekosystém,.,,,,,,,,,,,,
+21,Left dislocation,prepared,Eva promlouvá k zaměstnancům na firemní schůzi.,Říká: Nová hala bude sloužit ke slavnostním akcím.,Control,yes,adjectivum,subjekt,1,Nová,hala,",",ta,bude sloužit,ke,slavnostním,akcím,.,,,,,,,,,,,,
+22,Left dislocation,prepared,Paní Novotná píše stížnost pro vedení hotelu.,"Píše: Hluk, ten jsme slyšeli do pozdních hodin.",Critical,no,,objekt,4,,Hluk,",",ten,jsme slyšeli,do,pozdních,hodin,.,,,,,,,,,,,,
+23,Left dislocation,prepared,Jitka vypráví návštěvníkům historii hradu.,"Říká: Severní nádvoří, to sloužilo k rytířským turnajům.",Critical,yes,adjectivum,subjekt,1,Severní,nádvoří,",",to,sloužilo,k,rytířským,turnajům,.,,,,,,,,,,,,
+24,Left dislocation,prepared,Pan Dvořák píše upomínku na třídní nástěnku.,"Píše: Omluvenku, tu přineste do školní družiny.",Critical,no,,objekt,4,,Omluvenku,",",tu,přineste,do,školní,družiny,.,,,,,,,,,,,,
+25,Long topicalization,formal written,Pan Vokál píše článek o lidských právech.,"Píše: Zásadní změny myslím, že vláda provedla v posledním desetiletí.",Critical,,,,,,,,,,,,,,object,4,Zásadní,změny,myslím,že,vláda,provedla,v,posledním,desetiletí,.
+26,Long topicalization,formal written,Paní Lenderová píše recenzi na nejnovější výstavu.,"Píše: Důsledný antropocentrismus se říká, že způsobil definitivní odlidštění.",Critical,,,,,,,,,,,,,,subject,1,Důsledný,antropocentrismus,se říká,že,,způsobil,,definitivní,odlidštění,.
+27,Long topicalization,formal written,Paní Nejedlová píše recenzi na divadelní hru.,"Píše: Třetí akt se domnívám, že vzbudil největší ohlas.",Critical,,,,,,,,,,,,,,subject,1,Třetí,akt,se domnívám,že,,vzbudil,,největší,ohlas,.
+28,Long topicalization,formal written,Paní Černá píše pojišťovně kvůli pracovnímu úrazu.,"Píše: Postižený pracovník myslím, že neměl bezpečnostní helmu.",Critical,,,,,,,,,,,,,,subject,1,Postižený,pracovník,myslím,že,,neměl,,bezpečnostní,helmu,.
+29,Long topicalization,formal written,Paní Novotná píše protokol o nové metodologii.,"Píše: Odpovědnou osobu myslím, že firma přiřadí ke každému bodu.",Critical,,,,,,,,,,,,,,object,4,Odpovědnou,osobu,myslím,že,firma,přiřadí,ke,každému,bodu,.
+30,Long topicalization,formal written,Pan Kučera píše protokol k soudnímu řízení.,"Píše: Původního majitele myslím, že soud informoval o celé situaci.",Critical,,,,,,,,,,,,,,object,1,Původního,majitele,myslím,že,soud,informoval,o,celé,situaci,.
+31,Long topicalization,formal written,Paní Černá píše zaměstnanci pracovní etiku.,"Píše: Podotýkám, že nefunkční nástroje zaměstnanec hlásí vedoucímu směny.",Control,,,,,,,,,,,,,,object,4,Nefunkční,nástroje,podotýkám,že,zaměstnanec,hlásí,,vedoucímu,směny,.
+32,Long topicalization,formal written,Pan Černý píše začátek výroční zprávy.,"Píše: Soudím, že moravské obce firma podpořila výrazným způsobem.",Control,,,,,,,,,,,,,,object,4,Moravské,obce,soudím,že,firma,podpořila,,výrazným,způsobem,.
+33,Long topicalization,formal written,Pan Vejvoda píše článek o životním prostředí.,"Píše: Odhaduje se, že se mladí lidé zajímají o životní prostředí.",Control,,,,,,,,,,,,,,subject,1,Mladí,lidé,se odhaduje,že,,se zajímají,o,životní,prostředí,.
+34,Long topicalization,formal written,Paní Poláková píše zápis z městské schůze.,"Píše: Předpokládá se, že předložený plán rada projedná na příštím zasedání.",Control,,,,,,,,,,,,,,subject,1,Předložený,plán,se předpokládá,že,rada,projednáme,na,příštím,zasedání,.
+35,Long topicalization,formal written,Pan Beran píše pravidla na informační tabuli.,"Píše: Doufáme, že grilovací místa nikdo nezakládá u dětského hřiště.",Control,,,,,,,,,,,,,,object,1,Grilovací,místa,doufáme,že,nikdo,nezakládá,u,dětského,hřiště,.
+36,Long topicalization,formal written,Paní Drahovzalová píše protokol o pracovním postupu.,"Píše: Podotýkám, že naváděcí značky budou zaneseny do průvodního protokolu.",Control,,,,,,,,,,,,,,subject,1,Naváděcí,značky,podotýkám,že,,budou zaneseny,do,průvodního,protokolu,.
+37,Long topicalization,informal spoken,Matěj si povídá s přítelem o večerních plánech.,"Říká: Myslim, že novýho kuchaře najali minulej tejden.",Control,,,,,,,,,,,,,,object,4,Novýho,kuchaře,myslim,že,,najali,,minulej,tejden,.
+38,Long topicalization,informal spoken,Stela říká kamarádce o sportovních výsledcích.,"Říká: Jejich brankář myslim, že si zlomil levou nohu.",Critical,,,,,,,,,,,,,,subject,1,Jejich,brankář,myslim,že,,si zlomil,,levou,nohu,.
+39,Long topicalization,informal spoken,Prokop mluví s kamarádem na rockovém koncertě.,"Říká: Točený pivo myslim, že maj z místního pivovaru.",Critical,,,,,,,,,,,,,,object,4,Točený,pivo,myslim,že,,maj,z,místního,pivovaru,.
+40,Long topicalization,informal spoken,František říká bratrovi radostnou novinu.,"Říká: Nová stavba myslim, že může začít příští pondělí.",Critical,,,,,,,,,,,,,,subject,1,Nová,stavba,myslim,že,,může začít,,příští,pondělí,.
+41,Long topicalization,informal spoken,Milena vypráví mamince o kriminálním případu.,"Říká: Celou oblast řikali, že zavřeli na neurčitou dobu.",Critical,,,,,,,,,,,,,,object,4,Celou,oblast,řikali,že,,zavřeli,na,neurčitou,dobu,.
+42,Long topicalization,informal spoken,Jana mluví se spolubydlící o dnešních plánech.,"Říká: Pečený kuře myslim, že Romana udělá pro celej byt.",Critical,,,,,,,,,,,,,,object,4,Pečený,kuře,myslim,že,Romana,udělá,pro,celej, byt,.
+43,Long topicalization,informal spoken,Františka popisuje kamarádovi napínavý film.,"Říká: Celej sál myslim, že čekal na nějakej zvrat.",Critical,,,,,,,,,,,,,,subject,1,Celej,sál,myslim,že,,čekal,na,nějakej,zvrat,.
+44,Long topicalization,informal spoken,Sandra si povídá s přítelem na fotbalovém utkání.,"Říká: Psali, že hroznej výkon měl v poslednim zápase.",Control,,,,,,,,,,,,,,object,4,Hroznej,výkon,psali,že,,měl,v,poslednim,zápase,.
+45,Long topicalization,informal spoken,Martin mluví se spolužákem na školním výletě.,"Říká: Myslim, že nejtěžší příklady udělal jeho brácha.",Control,,,,,,,,,,,,,,object,4,Nejtěžší,příklady,myslim,že,,udělal,,jeho,brácha,.
+46,Long topicalization,informal spoken,Pavel volá bratrovi o pátečních plánech.,"Říká: Myslim, že celá rodina přinese nějaký pohoštění.",Control,,,,,,,,,,,,,,subject,1,Celá,rodina,myslim,že,,přinese,,nějaký,pohoštění,.
+47,Long topicalization,informal spoken,Karolína mluví s kamarádkou na vánočním trhu.,"Říká: Myslim, že vánoční ozdoby prodávají za zlevněnou cenu.",Control,,,,,,,,,,,,,,object,1,Vánoční,ozdoby,myslim,že,,prodávají,za,zlevněnou,cenu,.
+48,Long topicalization,informal spoken,Kamil si povídá s kamarádkou na matějské pouti.,"Říká: Řikali, že nejdelší fronty jsou před horskou dráhou.",Control,,,,,,,,,,,,,,subject,1,Nejdelší,fronty,řikali,že,,jsou,před,horskou,dráhou,.
+49,Filler,,Paní Dvořáková hlásí události v dopravním zpravodajství.,Říká: Plán ministerstva dopravy na zahájení dopravních staveb vláda včera schválila.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+50,Filler,,Paní Kučerová ohlašuje vyznamenání na firemní akci.,Říká: Naší společnosti předávají zástupci agentury Tichý svět cenu i dnes.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Filler,,Eva píše zprávu o velké přestávce.,Píše: Třídní učitelce ať ji nálezce nahlásí.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+52,Filler,,Paní Kučerová píše zprávu do skupinového chatu.,Píše: Všechen nábytek odveze stěhovací firma v pátek.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+53,Filler,,Martin přednáší publiku na zahajovací slavnosti.,Říká: Tombolu letos připravil dobrovolnický klub.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+54,Filler,,Tomáš promlouvá k rodičům na školní schůzce.,Říká: Odpolední rozvrh změnila nová paní ředitelka.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+55,Filler,,Pan Kučera píše komentář na cestovatelský blog.,Píše: Jídlem plýtvá téměř každá restaurace.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+56,Filler,,Martina píše pohlednici z letní dovolené.,Píše: Všechny pěkné kousky už ale vykoupili ostatní turisté.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+57,Filler,,Paní Dvořáková píše zprávu do soukromého chatu.,Píše: Kamilce dala moje maminka takovou plyšovou kravičku.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+58,Filler,,Paní Kučerová píše poznámku do žákovské knížky.,Píše: Pana Blažka neposlouchá váš syn ani po napomenutí.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+59,Filler,,Paní Černá píše přání k třicátým narozeninám.,Píše: Hodně štěstí a zdraví ti přeje celá naše rodina.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+60,Filler,,Pan Dvořák vypráví dětem krátký příběh.,Říká: Nový návštěvník se vodníku Česílkovi vůbec nezamlouval.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+61,Filler,,Martin píše příběh do zábavného časopisu.,Píše: Své zeleninové pozemky si vytvářeli první farmáři v blízkosti obydlí.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+62,Filler,,Pan Černý telefonuje sekretáři na městský úřad.,Říká: Občanský průkaz mi váš úřad poslal už před týdnem.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+63,Filler,,Kamila píše článek do fotografického magazínu.,Píše: Svým zákazníkům vychází Elena vždy vstříc.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+64,Filler,,Pan Horák píše starostovi další dopis.,Píše: Problém v tu dobu ještě nebyl vyřešen.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+65,Filler,,Filip píše reportáž z vývojářského centra.,Píše: Zaměstnanci a zaměstnankyně se rychle převlékají do ochranných pláštů.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+66,Filler,,Paní Stejskalová mluví s kolegyní o moderní vědě.,"Říká: Asi jsi slyšela o tom švýcarským týmu, co na něj všichni nadávaj.",Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+67,Filler,,Marta vypráví kamarádce příběh městského úředníka.,Říká: Podle mého názoru se neměl  nechat přemluvit.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+68,Filler,,Paní Neradová vysvětluje svědkyni komplikovaný případ.,"Říká: Asi by to bylo možné, kdyby tam přišla dřív.",Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+69,Filler,,Paní Sklenářová nahlašuje na policii včerejší nehodu.,Říká: Stěží jsem stihla stočit volant doleva.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+70,Filler,,Pan Stejskal vypráví žákům o zoologické zahradě.,Říká: Stojí tu už od roku devatenáct set šedesát.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+71,Filler,,Monika píše reportáž z gymnastické soutěže.,"Píše: Vstáváme brzo ráno, už ve čtvrt na sedm.",Filler,,,,,,,,,,,,,,,,,,,,,,,,,
+72,Filler,,Helena volá společnosti o zpoždění vlaku.,Říká: Vlak měl zpoždění sto dvacet dva minut.,Filler,,,,,,,,,,,,,,,,,,,,,,,,,
